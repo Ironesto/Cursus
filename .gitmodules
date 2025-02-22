@@ -16,3 +16,6 @@
 [submodule "Ring_02/so_long"]
 	path = Ring_02/so_long
 	url = https://github.com/Ironesto/so_long.git
+[submodule "Ring_03/philosophers"]
+	path = Ring_03/philosophers
+	url = https://github.com/Ironesto/philosophers.git
