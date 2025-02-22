@@ -13,3 +13,6 @@
 [submodule "Ring_02/push_swap"]
 	path = Ring_02/push_swap
 	url = https://github.com/Ironesto/push_swap.git
+[submodule "Ring_02/so_long"]
+	path = Ring_02/so_long
+	url = https://github.com/Ironesto/so_long.git
