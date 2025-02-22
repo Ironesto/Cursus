@@ -37,3 +37,6 @@
 [submodule "Ring_05/IRC"]
 	path = Ring_05/IRC
 	url = https://github.com/Ironesto/IRC.git
+[submodule "Ring_06/ft_transcendence"]
+	path = Ring_06/ft_transcendence
+	url = https://github.com/Ironesto/ft_transcendence.git
