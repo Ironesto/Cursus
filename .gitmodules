@@ -10,3 +10,6 @@
 [submodule "Ring_02/pipex"]
 	path = Ring_02/pipex
 	url = https://github.com/Ironesto/pipex.git
+[submodule "Ring_02/push_swap"]
+	path = Ring_02/push_swap
+	url = https://github.com/Ironesto/push_swap.git
