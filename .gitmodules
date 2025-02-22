@@ -7,3 +7,6 @@
 [submodule "Ring_01/get_next_line"]
 	path = Ring_01/get_next_line
 	url = https://github.com/Ironesto/get_next_line.git
+[submodule "Ring_02/pipex"]
+	path = Ring_02/pipex
+	url = https://github.com/Ironesto/pipex.git
