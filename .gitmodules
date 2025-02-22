@@ -19,3 +19,6 @@
 [submodule "Ring_03/philosophers"]
 	path = Ring_03/philosophers
 	url = https://github.com/Ironesto/philosophers.git
+[submodule "Ring_03/minishell"]
+	path = Ring_03/minishell
+	url = https://github.com/Ironesto/minishell.git
