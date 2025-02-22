@@ -25,3 +25,6 @@
 [submodule "Ring_04/netPractice"]
 	path = Ring_04/netPractice
 	url = https://github.com/Ironesto/netPractice.git
+[submodule "Ring_04/cub3D"]
+	path = Ring_04/cub3D
+	url = https://github.com/Ironesto/cub3D.git
