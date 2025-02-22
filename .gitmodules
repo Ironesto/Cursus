@@ -28,3 +28,6 @@
 [submodule "Ring_04/cub3D"]
 	path = Ring_04/cub3D
 	url = https://github.com/Ironesto/cub3D.git
+[submodule "Ring_04/cpp"]
+	path = Ring_04/cpp
+	url = https://github.com/Ironesto/cpp.git
