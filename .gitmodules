@@ -1,3 +1,6 @@
 [submodule "Ring_00/libft"]
 	path = Ring_00/libft
 	url = https://github.com/Ironesto/libft.git
+[submodule "Ring_01/ft_printf"]
+	path = Ring_01/ft_printf
+	url = https://github.com/Ironesto/ft_printf.git
