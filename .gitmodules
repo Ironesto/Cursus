@@ -34,3 +34,6 @@
 [submodule "Ring_05/Inception"]
 	path = Ring_05/Inception
 	url = https://github.com/Ironesto/Inception.git
+[submodule "Ring_05/IRC"]
+	path = Ring_05/IRC
+	url = https://github.com/Ironesto/IRC.git
